@@ -81,7 +81,7 @@ This repository is public. Do not post:
 - detailed exploits or techniques that would meaningfully increase dangerous AI capability or misuse if published;
 - executable workloads that ask other people to run untrusted code.
 
-If a finding seems too sensitive to publish, describe it at a high level and email decisionpointinitiative@gmail.com instead.
+If something seems too sensitive for this public repository, do **not** send the sensitive details publicly or by ordinary email. Instead, you may email decisionpointinitiative@gmail.com with only a high-level notice (no exploit details) so an appropriate disclosure channel can be coordinated.
 
 ## What contribution does not require
 
