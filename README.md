@@ -18,6 +18,12 @@ This repository is intentionally public. It is not a general discussion forum; i
 
 Read [`workshops/DP-001-governable-ai-architectures.md`](workshops/DP-001-governable-ai-architectures.md), then choose a bounded work packet, submit an independent contribution, or challenge an existing claim.
 
+Open starting points:
+
+- [WP-001 — Define “governable” operationally](https://github.com/JosephJMWalker-MBA/Decision-Point-Workshop/issues/1)
+- [WP-007 — Establish the simplest baselines](https://github.com/JosephJMWalker-MBA/Decision-Point-Workshop/issues/2)
+- [WP-009 — Kill the competition](https://github.com/JosephJMWalker-MBA/Decision-Point-Workshop/issues/3)
+
 ## Workshop loop
 
 ```text
