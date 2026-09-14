@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/decision-point-initiative-logo.svg" alt="Decision Point Initiative" width="220">
+  <img src="assets/decision-point-initiative-logo.webp" alt="Decision Point Initiative" width="220" height="220">
 </p>
 
 # Decision Point Workshop
