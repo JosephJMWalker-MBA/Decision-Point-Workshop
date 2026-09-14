@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Read DP-001
+    url: https://github.com/JosephJMWalker-MBA/Decision-Point-Workshop/blob/main/workshops/DP-001-governable-ai-architectures.md
+    about: Start with the current public workshop and its open work packets.
+  - name: Contribution guide
+    url: https://github.com/JosephJMWalker-MBA/Decision-Point-Workshop/blob/main/CONTRIBUTING.md
+    about: Read the contribution posture and public-work expectations before submitting.
