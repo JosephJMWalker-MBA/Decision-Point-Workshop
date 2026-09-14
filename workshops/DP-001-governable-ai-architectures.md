@@ -160,6 +160,14 @@ Desired output: a pilot proposal with stop conditions.
 
 ## How to contribute
 
+Starting points already open as issues:
+
+- [WP-001 — Define “governable” operationally](https://github.com/JosephJMWalker-MBA/Decision-Point-Workshop/issues/1)
+- [WP-007 — Establish the simplest baselines](https://github.com/JosephJMWalker-MBA/Decision-Point-Workshop/issues/2)
+- [WP-009 — Kill the competition](https://github.com/JosephJMWalker-MBA/Decision-Point-Workshop/issues/3)
+
+Any other work packet can be claimed by opening a Work Packet issue.
+
 1. Read this workshop and [`../WORKSHOP.md`](../WORKSHOP.md).
 2. Open a [Work Packet issue](https://github.com/JosephJMWalker-MBA/Decision-Point-Workshop/issues/new?template=work-packet.md), [Contribution issue](https://github.com/JosephJMWalker-MBA/Decision-Point-Workshop/issues/new?template=contribution.md), or [Challenge / Falsification issue](https://github.com/JosephJMWalker-MBA/Decision-Point-Workshop/issues/new?template=challenge.md).
 3. Open a pull request when your work creates a durable artifact or improves a workshop document.

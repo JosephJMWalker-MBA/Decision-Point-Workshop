@@ -64,11 +64,24 @@ Especially useful contributions include:
 - prior art on AI safety architecture competitions, challenge programs, verification, or red teaming;
 - arguments that the competition itself would create unacceptable risk;
 - candidate governance properties that can actually be measured;
-- candidate architectures substantially different from MASI or Governed Intelligence Ecology;
+- candidate architectures substantially different from any single research lineage, including the founder's own governed-intelligence work;
 - adversarial evaluation designs;
 - international coordination models;
 - challenge-design experience from government, academia, standards bodies, or technical competitions;
 - ways to prevent a safety competition from accidentally becoming a capability accelerator.
+
+Good places to start are the open issues for [WP-001](https://github.com/JosephJMWalker-MBA/Decision-Point-Workshop/issues/1), [WP-007](https://github.com/JosephJMWalker-MBA/Decision-Point-Workshop/issues/2), and [WP-009](https://github.com/JosephJMWalker-MBA/Decision-Point-Workshop/issues/3). Comment with your approach, or open your own Contribution or Challenge issue that links back to them.
+
+## What not to post
+
+This repository is public. Do not post:
+
+- API keys, cloud credentials, passwords, tokens, or other secrets;
+- private or personal data about anyone;
+- detailed exploits or techniques that would meaningfully increase dangerous AI capability or misuse if published;
+- executable workloads that ask other people to run untrusted code.
+
+If something seems too sensitive for this public repository, do **not** send the sensitive details publicly or by ordinary email. Instead, you may email decisionpointinitiative@gmail.com with only a high-level notice (no exploit details) so an appropriate disclosure channel can be coordinated.
 
 ## What contribution does not require
 
