@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/decision-point-initiative-logo.svg" alt="Decision Point Initiative" width="220">
+</p>
+
 # Decision Point Workshop
 
 Decision Point Workshop is the public working layer of the [Decision Point Initiative](https://decisionpointinitiative.com/).
