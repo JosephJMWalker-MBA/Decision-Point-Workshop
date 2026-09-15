@@ -6,9 +6,9 @@
 
 ## Working proposition
 
-The United States could create a national competition in which teams propose fundamentally different architectures for keeping increasingly capable AI under meaningful human governance while independent adversarial teams are rewarded for attempting to falsify those architectures' claims.
+Decision Point Initiative could convene a national, openly inspectable competition in which teams propose and test fundamentally different AI architectures while independent adversarial teams are rewarded for attempting to falsify those architectures' claims.
 
-The purpose would not be to declare that one team has "solved alignment." The purpose would be to expand the search space and generate comparative evidence.
+The purpose would not be to declare that one team has "solved alignment." The purpose would be to expand the search space and generate comparative evidence across capability, governability, robustness, transparency, efficiency, adaptation, and reproducibility.
 
 This workshop treats that proposition as something to test, not something to protect.
 
@@ -26,6 +26,29 @@ Possible useful outputs include:
 - alternative competition structures;
 - international coordination pathways;
 - evidence that a national competition is the wrong mechanism.
+
+## Competition framework v0.1
+
+On 2026-09-14, DP-001 adopted a working competition and evaluation baseline for public refinement.
+
+The key design shift is that participation is no longer binary between "submit a complete architecture" and "do not participate." Contributors may join an existing team, take a bounded work packet, design or implement one component, build a test, reproduce a result, map prior art, or attempt to falsify another team's claim.
+
+Competition is therefore one mechanism inside the Workshop rather than the doorway into the work.
+
+The current framework is split into four inspectable documents:
+
+- [`DP-001/COMPETITION.md`](DP-001/COMPETITION.md) — participation model, competition lifecycle, hard entry gates, and recognition.
+- [`DP-001/EVALUATION.md`](DP-001/EVALUATION.md) — common scoring framework, multidimensional profiles, claim-specific tests, baselines, and adversarial evaluation.
+- [`DP-001/GOVERNANCE.md`](DP-001/GOVERNANCE.md) — institutional representatives, judging panels, conflicts, recusals, pre-registration, sponsorship rules, and organizer firewall.
+- [`DP-001/SUBMISSION-SCHEMA.md`](DP-001/SUBMISSION-SCHEMA.md) — architecture claim sheets, evidence, provenance, resource reporting, known limitations, and reproduction package.
+
+Working competition name: **AI Architecture Discovery Challenge**.
+
+Core rule:
+
+> Make explicit claims about an AI architecture, provide enough evidence for others to test them, and reward both the people who demonstrate that the claims are true and the people who rigorously demonstrate that they are not.
+
+Version 0.1 is intentionally concrete enough to criticize and incomplete enough to change.
 
 ## Open work packets
 
@@ -169,8 +192,9 @@ Starting points already open as issues:
 Any other work packet can be claimed by opening a Work Packet issue.
 
 1. Read this workshop and [`../WORKSHOP.md`](../WORKSHOP.md).
-2. Open a [Work Packet issue](https://github.com/JosephJMWalker-MBA/Decision-Point-Workshop/issues/new?template=work-packet.md), [Contribution issue](https://github.com/JosephJMWalker-MBA/Decision-Point-Workshop/issues/new?template=contribution.md), or [Challenge / Falsification issue](https://github.com/JosephJMWalker-MBA/Decision-Point-Workshop/issues/new?template=challenge.md).
-3. Open a pull request when your work creates a durable artifact or improves a workshop document.
+2. Review the [competition framework](DP-001/README.md).
+3. Open a [Work Packet issue](https://github.com/JosephJMWalker-MBA/Decision-Point-Workshop/issues/new?template=work-packet.md), [Contribution issue](https://github.com/JosephJMWalker-MBA/Decision-Point-Workshop/issues/new?template=contribution.md), or [Challenge / Falsification issue](https://github.com/JosephJMWalker-MBA/Decision-Point-Workshop/issues/new?template=challenge.md).
+4. Open a pull request when your work creates a durable artifact or improves a workshop document.
 
 See [`../CONTRIBUTING.md`](../CONTRIBUTING.md) for contribution standards.
 
@@ -182,6 +206,6 @@ A contribution that demonstrates this workshop is based on a bad premise is succ
 
 ## Current boundary
 
-DP-001 is a design and falsification workshop. It does **not** authorize building or training more capable frontier systems, sharing dangerous exploit details publicly, collecting participant credentials, or operating pooled volunteer compute.
+DP-001 remains a design and falsification workshop. It does **not** authorize building or training more capable frontier systems, sharing dangerous exploit details publicly, collecting participant credentials, or operating pooled volunteer compute.
 
-The first goal is to improve the problem definition and competition design through public collaborative reasoning.
+The first goal is to improve the problem definition, competition design, evaluation criteria, and governance through public collaborative reasoning before attempting a bounded pilot.

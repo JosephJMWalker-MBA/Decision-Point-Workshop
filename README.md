@@ -16,7 +16,18 @@ This repository is intentionally public. It is not a general discussion forum; i
 
 **DP-001 — Design the strongest possible National Competition for Governable AI Architectures**
 
-Read [`workshops/DP-001-governable-ai-architectures.md`](workshops/DP-001-governable-ai-architectures.md), then choose a bounded work packet, submit an independent contribution, or challenge an existing claim.
+Read [`workshops/DP-001-governable-ai-architectures.md`](workshops/DP-001-governable-ai-architectures.md), then choose a bounded work packet, join or form a team, submit an independent contribution, reproduce a result, or challenge an existing claim.
+
+### Competition framework v0.1
+
+An approved working baseline now turns the original competition proposition into a concrete structure for public refinement:
+
+- [`Competition framework`](workshops/DP-001/COMPETITION.md) — participation model, seven-phase competition lifecycle, hard entry gates, and recognition.
+- [`Evaluation framework`](workshops/DP-001/EVALUATION.md) — 100-point common framework plus multidimensional profiles, claim-specific tests, reproducibility, and adversarial evaluation.
+- [`Governance`](workshops/DP-001/GOVERNANCE.md) — institutional representatives, balanced judging panels, recusals, pre-registration, and organizer firewall.
+- [`Submission schema`](workshops/DP-001/SUBMISSION-SCHEMA.md) — claim sheets, evidence, provenance, resources, known limitations, and reproduction package.
+
+The key participation shift is that a contributor does **not** need to invent an entire architecture or act as a principal investigator. A person can join an existing team, take a bounded work packet, design a test, reproduce a result, or try to falsify a claim.
 
 Open starting points:
 
