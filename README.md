@@ -60,6 +60,7 @@ The first version deliberately tests coordination before building custom compute
 
 - Read [`WORKSHOP.md`](WORKSHOP.md) for the operating model.
 - Read [`CONTRIBUTING.md`](CONTRIBUTING.md) for contribution standards.
+- Read [`ACCESS-AND-CONTRIBUTION.md`](ACCESS-AND-CONTRIBUTION.md) for participation, affiliation, access, and unsolicited-work boundaries.
 - Open a **Work Packet** issue to claim or propose a bounded task.
 - Open a **Contribution** issue for a finding, analysis, artifact, prior-art result, or synthesis.
 - Open a **Challenge / Falsification** issue to attack a claim, assumption, evaluation, architecture, or workshop premise.
