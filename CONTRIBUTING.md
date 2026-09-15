@@ -49,6 +49,18 @@ DPI values contributions that:
 - preserve human accountability for consequential decisions;
 - improve the work rather than merely reinforce the current thesis.
 
+## Participation and access boundaries
+
+DPI is open to useful participation without making private access to the founder or organizers a prerequisite for contribution.
+
+Contributing does **not** imply an expectation of private correspondence, meetings, compensation, appointment, affiliation, adoption, or future collaboration. Substantial work should not be undertaken with an expectation of review, payment, or institutional commitment unless that scope was agreed in advance.
+
+The working rule is:
+
+> **Initiative is welcomed. Scope is governed. Access is earned.**
+
+See [`ACCESS-AND-CONTRIBUTION.md`](ACCESS-AND-CONTRIBUTION.md) for the full policy on unsolicited work, affiliation, access, organizer attention, communication boundaries, and explicit collaboration.
+
 ## AI-assisted work
 
 AI use is welcome. When an AI system materially contributed to a result, identify the model or tool when practical and distinguish what the human contributor inspected, reasoned through, tested, observed, or verified.
